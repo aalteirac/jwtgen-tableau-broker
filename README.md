@@ -36,7 +36,7 @@ ex: username:alteirac
 
   
 
-![ScreenShot](https://raw.githubusercontent.com/aalteirac/jwt-tableau-broker/master/one.png)
+![ScreenShot](https://raw.githubusercontent.com/aalteirac/jwtgen-tableau-broker/master/one.png)
 
   
 
