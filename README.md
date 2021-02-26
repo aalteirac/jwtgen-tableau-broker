@@ -10,11 +10,9 @@ This service generates the JWT expected by the [jwt-tableau-broker](https://gith
 
 In real life it has to be secured properly, **do not use directly this piece in production** :-)
 
-  
-
 JWT is signed with private key, JWT is decode by the broker using only the public key.
 
-  
+Learn about the concept here: [Tableau Broker](https://anthony-alteirac.medium.com/tableau-trusted-authentication-the-ticket-broker-cloud-friendly-709789942aa3)  
 
 ## USAGE
 
